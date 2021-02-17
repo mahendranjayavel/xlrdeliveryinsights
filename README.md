@@ -1,4 +1,4 @@
-# release-delivery-insights-examples
+# testingXLR-CTM integration
 
 * The Digital.ai Release with Delivery Insights brings together Agile and DevOps to help you improve visibility and collaboration across software development and deliveries by seamlessly connecting the data and artifacts at each stage of the release to the related agile stories and features, allowing the whole organization to use a single tool to easily track progress end-to-end.
 * Digital.ai Release version 10.0 supports integration with Continuum 21.0. 
